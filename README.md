@@ -26,3 +26,7 @@ Sau khi push lên GitHub:
 3. Ở **Build and deployment**, chọn **GitHub Actions**.
 4. Push lên branch `main` hoặc chạy workflow thủ công.
 5. Mở tab **Actions** để xem trạng thái deploy.
+
+## Status
+
+Deployment trigger updated.
